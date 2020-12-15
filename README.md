@@ -22,7 +22,9 @@
 
 
 ## Usage Information
-* The user will be able to write and save notes also delete notes that have written before.
+* For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. 
+* Being able to take persistent notes allows users to have written information available when needed. 
+* With this application the users will be able to write and save notes also delete notes that have written before.
 
 
 
@@ -34,37 +36,26 @@
 
 
 ## Tests Instructions
-* The Command Line Application will prompt multiple choices for a user to choose <br>
+* After a user click "Get Started" button, the application will present the Note Taker page which the user will be able to create note on Note Title and detail on Note text on the right section of the page.<br>
 
-<img src="pictures/1st.png" style="width: 350px;"><br>
+<img src="pictures/1.png" style="width: 350px;"><br>
 
-
-* The Command Line Application will display the output in a table form. <br>In the picture below is the example of the user clicked view all employees.<br>
-
-<img src="pictures/viewall.png" style="width: 350px;"><br>
+<img src="pictures/2.png" style="width: 350px;"><br>
 
 
-* The user will be able to add more employees, role and department into the table. <br>In the picture below is the example of adding employee (Peter Corp) which appeared in id 12.<br>
+* After the user write the note, the delete icon will appear on the top right conner of the page. Once the user click save icon, the note will appear on the left section with delete icon, the users also be able to view previously saved notes.<br>
 
-<img src="pictures/addem.png" style="width: 350px;"><br>
-
-## Demonstration Video
-
-![](https://media.giphy.com/media/HkRm0ZmUiV5TcW6s8c/giphy.gif) <br>
+<img src="pictures/3.png" style="width: 350px;"><br>
 
 
+* The application allow the users to delete recent and previously saved notes<br>
 
-
-### Link to Demonstration on YouTube: https://www.youtube.com/watch?v=hc-PU9dJhUk<br>
-
-
-
+<img src="pictures/delete.png" style="width: 350px;"><br>
 
 ## Questions
 
-  * Github user name :   saipurciful
   * Github link : https://github.com/Saipurciful
   * How to reach me with additional questions : <saipurciful@gmail.com>
 
 ## Link to the project site. 
-* N/A
+* 
